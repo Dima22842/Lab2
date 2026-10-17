@@ -1,5 +1,0 @@
-coffe_csv = open("Coffe_sales.csv")
-print(dir(coffe_csv))
-data = next(coffe_csv)
-print(data)
-coffe_csv.close()
